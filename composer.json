@@ -1,0 +1,8 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^2.5",
+        "nesbot/carbon": "^2.3",
+        "filp/whoops": "^2.3",
+        "fzaninotto/faker": "^1.8"
+    }
+}
